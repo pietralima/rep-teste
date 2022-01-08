@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins','sans-serif';
+}
+
+body {
+    font-size: 100%;
+}
+
+.menu-item {
+position: relative;
+font-size: 16px;
+color: rgb(39, 39, 39);
+text-decoration: none;
+padding: 40px;
+color: initial;
+}
+
+a:hover {
+    color: initial;
+}
+
+.categoria {
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(39, 39, 39);
+    text-decoration: none;
+    color: initial;
+}
+
+#prog {
+    position: relative;
+    padding: 20px;
+    font-weight: bold;
+    color: rgb(39, 39, 39);
+}
+
+#search {
+    position: relative;
+    padding: 30px;
+    justify-content: flex-end;
+    }
+
+a:hover {
+    color: initial;
+    }
+
+.nav-item {
+    position: relative;
+    padding: 3px;
+    text-decoration: none;
+
+}
+
+#footer {
+    position: relative;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#btn {
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#back {
+position: relative;
+background-color: rgb(185, 185, 185);
+text-decoration: none;
+}
